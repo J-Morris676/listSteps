@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "async": "^1.5.2",
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "glob": "^6.0.4",
+    "open": "0.0.5",
+    "serve-static": "^1.10.2"
+  }
+}

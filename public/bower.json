@@ -1,0 +1,17 @@
+{
+  "name": "listSteps",
+  "version": "0.0.1",
+  "main": "index.html",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "1.3.14",
+    "angular-sanitize": "1.3.14",
+	"bootstrap": "3.3.2"
+  }
+}
